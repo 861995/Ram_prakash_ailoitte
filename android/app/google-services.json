@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "855037664513",
+    "project_id": "smarts3-c43ba",
+    "storage_bucket": "smarts3-c43ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855037664513:android:63c6be1e77f7887181cf00",
+        "android_client_info": {
+          "package_name": "com.ramproject.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855037664513-2inasqmp3nm4d4p86nldacdaj2ljf6h7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ramproject.com",
+            "certificate_hash": "ba1d807ec0e15fb1b1e478ffc777cd5d9381fd93"
+          }
+        },
+        {
+          "client_id": "855037664513-kgapapms0s7skkeoff2q4jb5v3mmnimu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU5wksl8_kUm6VKkqSqviIfgrA7w4NloQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855037664513-kgapapms0s7skkeoff2q4jb5v3mmnimu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
